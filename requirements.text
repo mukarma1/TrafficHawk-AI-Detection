@@ -1,0 +1,9 @@
+**requirements are as follows**
+flask==2.3.2
+opencv-python==4.8.1.78
+numpy==1.26.0
+pandas==2.1.1
+ultralytics==8.0.111
+easyocr==1.6.2
+torch==2.1.0
+torchvision==0.16.1
