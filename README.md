@@ -63,7 +63,7 @@ I implemented a working prototype to demonstrate real-world use cases:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-mukarma1/TrafficHawk-AI-Detection.git
+git clone https://github.com/mukarma1/TrafficHawk-AI-Detection.git
 
 # Move into the project folder
 cd TrafficHawk-AI-Detection
