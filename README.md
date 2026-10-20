@@ -6,8 +6,7 @@
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-red?logo=ultralytics)](https://github.com/ultralytics/ultralytics)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An AI-powered system designed to automatically detect and log common **traffic violations** from recorded videos. Built and implemented for the **Institution’s Innovation Council (IIC) 2.0 Shortlisting Round**, this project leverages computer vision to enhance **road safety**.
-
+An AI-powered system designed to automatically detect and log common **traffic violations** from recorded videos. 
 ---
 
 ## ✨ Our Solution
