@@ -56,6 +56,7 @@ A working prototype that demonstrates the pipeline end to end:
 - [ ] Traffic light state check (HSV color filtering on the signal region, or a small classifier) so violations are flagged only when the light is red
 - [ ] Replace the centroid tracker with ByteTrack or DeepSORT for more stable IDs during occlusion
 - [ ] Finish the license plate recognition module
+- [ ] Human-in-the-loop review step for flagged events (exceptions like emergency vehicles or officer-directed traffic)
 
 ---
 
